@@ -1,0 +1,442 @@
+Station,Category,Zone,LineCount,TotPlatforms,WeekdayEnEx,SaturdayEnEx,SundayEnEx,TotalEnExCount,Year
+Acton Town,Metro,3,2,4,18071,12654,8797,5.75,2013
+Acton Town,Metro,3,2,4,18797,13982,9768,6.06,2014
+Acton Town,Metro,3,2,4,19401,14197,9972,6.24,2015
+Acton Town,Metro,3,2,4,19575,13960,10106,6.27,2016
+Acton Town,Metro,3,2,4,18913,18913,9529,5.73,2017
+Acton Town,Metro,3,2,4,19559,12914,10003,5.79,2018
+Acton Town,Metro,3,2,4,20169,15162,10679,6.19,2019
+Acton Town,Metro,3,2,4,7331,4122,3056,3.57,2020
+Acton Town,Metro,3,2,4,13707,11216,8135,2.9,2021
+Baker Street,Destination,1,5,10,88604,59082,44219,28.1,2013
+Baker Street,Destination,1,5,10,102048,66902,48786,32.18,2014
+Baker Street,Destination,1,5,10,92275,61093,48419,29.38,2015
+Baker Street,Destination,1,5,10,94618,61808,44110,29.75,2016
+Baker Street,Destination,1,5,10,92029,92029,43014,27.34,2017
+Baker Street,Destination,1,5,10,92000,61444,44388,27.35,2018
+Baker Street,Destination,1,5,10,93150,61778,46019,28.07,2019
+Baker Street,Destination,1,5,10,17341,9760,7620,8.48,2020
+Baker Street,Destination,1,5,10,53332,41891,28996,11.15,2021
+Bank and Monument,Destination,1,5,10,180227,39392,20999,48.88,2013
+Bank and Monument,Destination,1,5,10,191785,44533,24894,52.31,2014
+Bank and Monument,Destination,1,5,10,209134,58004,26879,57.51,2015
+Bank and Monument,Destination,1,5,10,232075,72749,29903,64.26,2016
+Bank and Monument,Destination,1,5,10,224256,224256,33747,59.26,2017
+Bank and Monument,Destination,1,5,10,215072,55423,35018,56.89,2018
+Bank and Monument,Destination,1,5,10,224519,79950,42104,61.79,2019
+Bank and Monument,Destination,1,5,10,15242,6156,4228,7.03,2020
+Bank and Monument,Destination,1,5,10,93515,42051,24360,17.66,2021
+Barbican,Metro,1,3,4,36674,12398,9173,10.46,2013
+Barbican,Metro,1,3,4,39842,14626,10240,11.44,2014
+Barbican,Metro,1,3,4,39126,15780,9560,11.28,2015
+Barbican,Metro,1,3,4,42154,14428,9456,11.97,2016
+Barbican,Metro,1,3,4,41192,41192,10500,11.3,2017
+Barbican,Metro,1,3,4,40588,14448,9632,11.16,2018
+Barbican,Metro,1,3,4,37639,13101,8678,10.47,2019
+Barbican,Metro,1,3,4,5634,1844,1256,2.54,2020
+Barbican,Metro,1,3,4,17765,9932,6198,3.47,2021
+Becontree,Local,5,1,2,9988,5847,3540,3.04,2013
+Becontree,Local,5,1,2,11016,6842,4285,3.4,2014
+Becontree,Local,5,1,2,11374,6851,4346,3.49,2015
+Becontree,Local,5,1,2,11345,7368,4951,3.55,2016
+Becontree,Local,5,1,2,11672,11672,4972,3.46,2017
+Becontree,Local,5,1,2,11822,7728,5016,3.48,2018
+Becontree,Local,5,1,2,11644,7639,4982,3.46,2019
+Becontree,Local,5,1,2,5880,2738,1776,2.76,2020
+Becontree,Local,5,1,2,8722,5874,3800,1.76,2021
+Bond Street,Destination,1,2,6,121723,105275,57254,39.65,2013
+Bond Street,Destination,1,2,6,59999,53154,31458,19.8,2014
+Bond Street,Destination,1,2,6,112729,98058,59319,37.12,2015
+Bond Street,Destination,1,2,6,121609,99413,60883,39.53,2016
+Bond Street,Destination,1,2,6,121358,121358,55721,36.85,2017
+Bond Street,Destination,1,2,6,120960,87748,62236,36.17,2018
+Bond Street,Destination,1,2,6,120607,101744,62147,37.49,2019
+Bond Street,Destination,1,2,6,19894,11826,7649,9.68,2020
+Bond Street,Destination,1,2,6,72029,72934,42081,15.69,2021
+Borough,Metro,1,1,2,15624,10214,6840,4.89,2013
+Borough,Metro,1,1,2,16874,11740,7278,5.31,2014
+Borough,Metro,1,1,2,17065,11560,7454,5.36,2015
+Borough,Metro,1,1,2,18895,12214,7768,5.87,2016
+Borough,Metro,1,1,2,18843,18843,8095,5.58,2017
+Borough,Metro,1,1,2,18540,12249,7650,5.41,2018
+Borough,Metro,1,1,2,18839,11881,7671,5.55,2019
+Borough,Metro,1,1,2,2944,2164,1171,1.47,2020
+Borough,Metro,1,1,2,9774,8441,5271,2.07,2021
+Brent Cross,Local,3,1,2,6750,4468,3311,2.14,2013
+Brent Cross,Local,3,1,2,7438,5153,4243,2.4,2014
+Brent Cross,Local,3,1,2,7957,5476,4555,2.57,2015
+Brent Cross,Local,3,1,2,7765,5345,4253,2.49,2016
+Brent Cross,Local,3,1,2,7871,7871,4434,2.39,2017
+Brent Cross,Local,3,1,2,7978,4970,4457,2.4,2018
+Brent Cross,Local,3,1,2,7839,5167,4430,2.41,2019
+Brent Cross,Local,3,1,2,2801,1430,1137,1.35,2020
+Brent Cross,Local,3,1,2,5140,3483,3262,1.07,2021
+Brixton,Metro,2,1,2,82966,67557,46078,27.22,2013
+Brixton,Metro,2,1,2,88919,73788,51525,29.37,2014
+Brixton,Metro,2,1,2,93508,75874,54711,30.83,2015
+Brixton,Metro,2,1,2,101072,84424,59317,33.46,2016
+Brixton,Metro,2,1,2,99850,99850,57100,31.11,2017
+Brixton,Metro,2,1,2,99253,79942,57064,30.3,2018
+Brixton,Metro,2,1,2,102949,85470,57834,32.03,2019
+Brixton,Metro,2,1,2,24641,18304,14512,12.74,2020
+Brixton,Metro,2,1,2,57075,62493,40849,12.83,2021
+Camden Town,Destination,2,1,4,60961,83341,46754,22.52,2013
+Camden Town,Destination,2,1,4,63070,84175,51446,23.37,2014
+Camden Town,Destination,2,1,4,58994,81077,46729,21.9,2015
+Camden Town,Destination,2,1,4,62001,82971,48884,22.88,2016
+Camden Town,Destination,2,1,4,62229,62229,44686,21.24,2017
+Camden Town,Destination,2,1,4,58982,75569,55409,19.63,2018
+Camden Town,Destination,2,1,4,59174,81455,58084,20.5,2019
+Camden Town,Destination,2,1,4,10300,8913,6988,5.51,2020
+Camden Town,Destination,2,1,4,35799,59306,38034,9.12,2021
+Canary Wharf,Destination,2,1,2,175076,60413,44253,50.05,2013
+Canary Wharf,Destination,2,1,2,181395,64147,43736,51.81,2014
+Canary Wharf,Destination,2,1,2,190053,66645,49025,54.44,2015
+Canary Wharf,Destination,2,1,2,189468,72458,52246,54.79,2016
+Canary Wharf,Destination,2,1,2,173466,173466,53764,48.58,2017
+Canary Wharf,Destination,2,1,2,179641,69482,53403,49.81,2018
+Canary Wharf,Destination,2,1,2,166764,77542,53279,47.69,2019
+Canary Wharf,Destination,2,1,2,26496,18596,12722,13.36,2020
+Canary Wharf,Destination,2,1,2,88381,66715,44773,18.29,2021
+Canons Park,Local,5,1,2,7628,5050,3146,2.38,2013
+Canons Park,Local,5,1,2,8422,5334,3205,2.6,2014
+Canons Park,Local,5,1,2,8949,5690,3831,2.79,2015
+Canons Park,Local,5,1,2,9362,6305,3882,2.93,2016
+Canons Park,Local,5,1,2,9677,9677,4644,2.92,2017
+Canons Park,Local,5,1,2,9756,6591,4667,2.89,2018
+Canons Park,Local,5,1,2,9958,6504,4578,2.98,2019
+Canons Park,Local,5,1,2,3158,1582,1089,1.5,2020
+Canons Park,Local,5,1,2,5965,4932,3062,1.25,2021
+Charing Cross,Destination,1,2,4,56670,47818,30685,18.63,2013
+Charing Cross,Destination,1,2,4,63332,58725,37714,21.3,2014
+Charing Cross,Destination,1,2,4,63665,54277,29842,20.69,2015
+Charing Cross,Destination,1,2,4,23744,23370,15324,8.13,2016
+Charing Cross,Destination,1,2,4,60211,60211,28936,18.48,2017
+Charing Cross,Destination,1,2,4,62054,50277,33124,18.9,2018
+Charing Cross,Destination,1,2,4,63113,53912,32272,19.48,2019
+Charing Cross,Destination,1,2,4,6708,4757,3409,3.4,2020
+Charing Cross,Destination,1,2,4,31209,38030,22620,7.15,2021
+Clapham Common,Metro,2,1,2,27131,22937,14943,8.94,2013
+Clapham Common,Metro,2,1,2,26664,24312,15731,8.94,2014
+Clapham Common,Metro,2,1,2,30318,25995,17795,10.07,2015
+Clapham Common,Metro,2,1,2,29954,27055,17934,10.04,2016
+Clapham Common,Metro,2,1,2,31521,31521,18584,9.93,2017
+Clapham Common,Metro,2,1,2,31086,30241,18984,9.71,2018
+Clapham Common,Metro,2,1,2,30568,29238,18357,9.64,2019
+Clapham Common,Metro,2,1,2,8642,6827,5085,4.5,2020
+Clapham Common,Metro,2,1,2,21289,22315,13958,4.71,2021
+Cockfosters,Metro,5,1,4,5707,5492,4071,1.97,2013
+Cockfosters,Metro,5,1,4,5631,5131,4299,1.95,2014
+Cockfosters,Metro,5,1,4,5488,5009,3367,1.85,2015
+Cockfosters,Metro,5,1,4,5820,5810,4500,2.04,2016
+Cockfosters,Metro,5,1,4,5654,5654,3625,1.83,2017
+Cockfosters,Metro,5,1,4,5653,5242,3841,1.78,2018
+Cockfosters,Metro,5,1,4,5816,5473,3688,1.86,2019
+Cockfosters,Metro,5,1,4,1742,1236,930,0.89,2020
+Cockfosters,Metro,5,1,4,3564,4161,3360,0.84,2021
+Covent Garden,Metro,1,1,2,56621,76302,48687,21.17,2013
+Covent Garden,Metro,1,1,2,40924,57416,34632,15.38,2014
+Covent Garden,Metro,1,1,2,39438,53885,32024,14.67,2015
+Covent Garden,Metro,1,1,2,45339,64605,39976,17.19,2016
+Covent Garden,Metro,1,1,2,47254,47254,38161,16.52,2017
+Covent Garden,Metro,1,1,2,47486,55005,40846,15.76,2018
+Covent Garden,Metro,1,1,2,47857,67322,41733,16.55,2019
+Covent Garden,Metro,1,1,2,2833,3246,2376,1.62,2020
+Covent Garden,Metro,1,1,2,30410,46209,28550,7.48,2021
+Ealing Broadway,Local,3,2,9,53102,35071,23420,16.64,2013
+Ealing Broadway,Local,3,2,9,55254,36555,25424,17.38,2014
+Ealing Broadway,Local,3,2,9,53568,35340,24572,16.84,2015
+Ealing Broadway,Local,3,2,9,58393,41542,28325,18.6,2016
+Ealing Broadway,Local,3,2,9,52992,52992,25101,15.95,2017
+Ealing Broadway,Local,3,2,9,53609,34842,25739,15.82,2018
+Ealing Broadway,Local,3,2,9,53389,36474,25795,16.09,2019
+Ealing Broadway,Local,3,2,9,16022,8723,5990,7.72,2020
+Ealing Broadway,Local,3,2,9,32537,27831,19468,6.93,2021
+East Ham,Local,4,2,2,42193,30727,22188,13.58,2013
+East Ham,Local,4,2,2,45956,33942,24145,14.82,2014
+East Ham,Local,4,2,2,47355,34665,22219,15.09,2015
+East Ham,Local,4,2,2,45983,32701,23944,14.75,2016
+East Ham,Local,4,2,2,45754,45754,23812,13.94,2017
+East Ham,Local,4,2,2,43997,31400,22523,13.25,2018
+East Ham,Local,4,2,2,42896,29350,21767,13.01,2019
+East Ham,Local,4,2,2,17755,9760,5769,8.49,2020
+East Ham,Local,4,2,2,28892,21142,15053,5.97,2021
+Edgware,Local,5,1,3,13123,8024,5980,4.09,2013
+Edgware,Local,5,1,3,14411,9642,7424,4.59,2014
+Edgware,Local,5,1,3,15005,10187,7636,4.78,2015
+Edgware,Local,5,1,3,16517,10643,7739,5.19,2016
+Edgware,Local,5,1,3,16719,16719,8271,5.01,2017
+Edgware,Local,5,1,3,16327,10326,8214,4.84,2018
+Edgware,Local,5,1,3,16121,11223,8267,4.92,2019
+Edgware,Local,5,1,3,5836,3110,2309,2.82,2020
+Edgware,Local,5,1,3,10794,8555,6459,2.28,2021
+Embankment,Destination,1,4,6,59699,57194,35153,20.15,2013
+Embankment,Destination,1,4,6,58200,56559,33832,19.66,2014
+Embankment,Destination,1,4,6,65684,56970,33593,21.56,2015
+Embankment,Destination,1,4,6,83480,65536,39261,26.84,2016
+Embankment,Destination,1,4,6,68555,68555,33558,21,2017
+Embankment,Destination,1,4,6,68318,50915,34310,20.3,2018
+Embankment,Destination,1,4,6,68283,59725,31600,20.96,2019
+Embankment,Destination,1,4,6,8495,4074,3313,4.06,2020
+Embankment,Destination,1,4,6,35710,43635,27749,8.25,2021
+Epping,Local,6,1,2,10008,7228,4007,3.14,2013
+Epping,Local,6,1,2,9542,7467,4557,3.07,2014
+Epping,Local,6,1,2,10766,6614,4451,3.33,2015
+Epping,Local,6,1,2,11971,8075,5455,3.77,2016
+Epping,Local,6,1,2,12673,12673,5242,3.78,2017
+Epping,Local,6,1,2,13544,9717,6305,4.05,2018
+Epping,Local,6,1,2,13528,10139,5816,4.08,2019
+Epping,Local,6,1,2,4038,1995,1293,1.91,2020
+Epping,Local,6,1,2,8947,7548,4962,1.89,2021
+Euston,Gateway,1,2,6,116201,88493,68238,38.03,2013
+Euston,Gateway,1,2,6,124775,99619,77678,41.33,2014
+Euston,Gateway,1,2,6,126897,100069,82217,42.16,2015
+Euston,Gateway,1,2,6,127426,111340,85944,43.1,2016
+Euston,Gateway,1,2,6,129541,129541,83168,40.74,2017
+Euston,Gateway,1,2,6,128062,97263,82696,39.25,2018
+Euston,Gateway,1,2,6,130742,104562,87636,41.09,2019
+Euston,Gateway,1,2,6,17288,10948,10409,8.79,2020
+Euston,Gateway,1,2,6,68408,77349,61840,15.88,2021
+Finchley Central,Local,4,1,3,17332,10709,6619,5.33,2013
+Finchley Central,Local,4,1,3,18518,11430,6730,5.68,2014
+Finchley Central,Local,4,1,3,18703,11911,7266,5.78,2015
+Finchley Central,Local,4,1,3,22833,13443,8036,6.95,2016
+Finchley Central,Local,4,1,3,23704,23704,8384,6.86,2017
+Finchley Central,Local,4,1,3,28356,14841,9986,8.08,2018
+Finchley Central,Local,4,1,3,29118,16199,10582,8.49,2019
+Finchley Central,Local,4,1,3,7881,3816,2527,3.72,2020
+Finchley Central,Local,4,1,3,17376,11895,7873,3.52,2021
+Finchley Road,Metro,2,2,4,30900,21536,16292,9.9,2013
+Finchley Road,Metro,2,2,4,31391,21818,16692,10.06,2014
+Finchley Road,Metro,2,2,4,31147,21345,16288,9.95,2015
+Finchley Road,Metro,2,2,4,31218,21852,16338,10,2016
+Finchley Road,Metro,2,2,4,30249,30249,15423,9.13,2017
+Finchley Road,Metro,2,2,4,30707,20042,15696,9.12,2018
+Finchley Road,Metro,2,2,4,30317,21030,15822,9.19,2019
+Finchley Road,Metro,2,2,4,9629,5571,3957,4.7,2020
+Finchley Road,Metro,2,2,4,18530,14729,10982,3.91,2021
+Golders Green,Local,3,1,5,23149,15644,12319,7.4,2013
+Golders Green,Local,3,1,5,25553,17982,14409,8.25,2014
+Golders Green,Local,3,1,5,27000,18770,15137,8.7,2015
+Golders Green,Local,3,1,5,26621,17780,14435,8.51,2016
+Golders Green,Local,3,1,5,26292,26292,14276,7.97,2017
+Golders Green,Local,3,1,5,26438,16853,14527,7.9,2018
+Golders Green,Local,3,1,5,25850,17754,14354,7.9,2019
+Golders Green,Local,3,1,5,8025,4397,3358,3.9,2020
+Golders Green,Local,3,1,5,15940,11686,9497,3.33,2021
+Green Park,Destination,1,3,6,114426,71893,46978,35.46,2013
+Green Park,Destination,1,3,6,129132,85657,45862,39.83,2014
+Green Park,Destination,1,3,6,124590,88575,58063,39.55,2015
+Green Park,Destination,1,3,6,128583,97547,61648,41.24,2016
+Green Park,Destination,1,3,6,126711,126711,54714,37.4,2017
+Green Park,Destination,1,3,6,124788,79854,64002,36.79,2018
+Green Park,Destination,1,3,6,127457,99030,69069,39.06,2019
+Green Park,Destination,1,3,6,18810,12272,9590,9.45,2020
+Green Park,Destination,1,3,6,75686,62001,42265,15.94,2021
+Harrow & Wealdstone,Metro,5,1,4,15041,9250,6324,4.66,2013
+Harrow & Wealdstone,Metro,5,1,4,14836,9090,4847,4.51,2014
+Harrow & Wealdstone,Metro,5,1,4,16163,10111,6574,5,2015
+Harrow & Wealdstone,Metro,5,1,4,16218,9588,6132,4.96,2016
+Harrow & Wealdstone,Metro,5,1,4,15828,15828,6022,4.6,2017
+Harrow & Wealdstone,Metro,5,1,4,16096,9308,6330,4.65,2018
+Harrow & Wealdstone,Metro,5,1,4,15847,9413,6672,4.66,2019
+Harrow & Wealdstone,Metro,5,1,4,6434,3260,1878,3.03,2020
+Harrow & Wealdstone,Metro,5,1,4,10293,6911,4585,2.08,2021
+Hounslow Central,Local,4,1,2,12349,8337,6294,3.93,2013
+Hounslow Central,Local,4,1,2,12557,8638,6502,4.01,2014
+Hounslow Central,Local,4,1,2,12389,9773,6240,4.01,2015
+Hounslow Central,Local,4,1,2,12086,8008,5962,3.83,2016
+Hounslow Central,Local,4,1,2,12503,12503,5951,3.75,2017
+Hounslow Central,Local,4,1,2,11956,8077,6331,3.58,2018
+Hounslow Central,Local,4,1,2,11899,8480,6314,3.64,2019
+Hounslow Central,Local,4,1,2,3948,2456,1708,1.95,2020
+Hounslow Central,Local,4,1,2,7174,5768,4375,1.52,2021
+King's Cross St. Pancras,Gateway,1,6,8,257682,199503,157612,84.87,2013
+King's Cross St. Pancras,Gateway,1,6,8,280514,211390,169868,91.98,2014
+King's Cross St. Pancras,Gateway,1,6,8,277401,231951,189307,93.41,2015
+King's Cross St. Pancras,Gateway,1,6,8,285194,234012,181493,95.03,2016
+King's Cross St. Pancras,Gateway,1,6,8,296014,296014,187927,92.62,2017
+King's Cross St. Pancras,Gateway,1,6,8,287140,220844,190339,87.84,2018
+King's Cross St. Pancras,Gateway,1,6,8,281920,234453,189817,88.27,2019
+King's Cross St. Pancras,Gateway,1,6,8,38323,20991,18645,18.84,2020
+King's Cross St. Pancras,Gateway,1,6,8,158618,178627,141229,36.73,2021
+Kingsbury,Local,4,1,2,13343,7951,5572,4.12,2013
+Kingsbury,Local,4,1,2,14786,9044,6369,4.59,2014
+Kingsbury,Local,4,1,2,16040,9732,6857,4.97,2015
+Kingsbury,Local,4,1,2,16340,10625,7390,5.12,2016
+Kingsbury,Local,4,1,2,16531,16531,7872,4.96,2017
+Kingsbury,Local,4,1,2,15820,9684,7376,4.64,2018
+Kingsbury,Local,4,1,2,15159,10034,7306,4.55,2019
+Kingsbury,Local,4,1,2,6774,3644,2273,3.24,2020
+Kingsbury,Local,4,1,2,10131,7038,4911,2.07,2021
+Leyton,Local,3,1,2,41795,31193,22632,13.53,2013
+Leyton,Local,3,1,2,42665,34577,25000,14.07,2014
+Leyton,Local,3,1,2,43531,35306,26394,14.41,2015
+Leyton,Local,3,1,2,43268,35485,26086,14.33,2016
+Leyton,Local,3,1,2,40692,40692,24276,12.75,2017
+Leyton,Local,3,1,2,36712,30842,23024,11.39,2018
+Leyton,Local,3,1,2,35241,32478,22653,11.26,2019
+Leyton,Local,3,1,2,14628,9849,6889,7.33,2020
+Leyton,Local,3,1,2,24566,22426,15018,5.29,2021
+Liverpool Street,Gateway,1,4,4,217593,121704,110406,67.89,2013
+Liverpool Street,Gateway,1,4,4,233552,137726,125611,73.66,2014
+Liverpool Street,Gateway,1,4,4,233796,131776,122959,73.26,2015
+Liverpool Street,Gateway,1,4,4,226750,134623,122815,71.61,2016
+Liverpool Street,Gateway,1,4,4,224125,224125,84364,64.5,2017
+Liverpool Street,Gateway,1,4,4,232300,133778,83746,66.14,2018
+Liverpool Street,Gateway,1,4,4,230148,139891,89905,67.2,2019
+Liverpool Street,Gateway,1,4,4,34046,17766,11972,16.27,2020
+Liverpool Street,Gateway,1,4,4,123826,112492,73730,26.6,2021
+Maida Vale,Metro,2,1,2,10456,7487,5307,3.35,2013
+Maida Vale,Metro,2,1,2,10698,7819,5685,3.45,2014
+Maida Vale,Metro,2,1,2,10497,7701,5535,3.38,2015
+Maida Vale,Metro,2,1,2,10612,7632,5549,3.41,2016
+Maida Vale,Metro,2,1,2,10298,10298,5263,3.12,2017
+Maida Vale,Metro,2,1,2,10452,7520,5271,3.15,2018
+Maida Vale,Metro,2,1,2,10845,7715,5430,3.3,2019
+Maida Vale,Metro,2,1,2,3136,1922,1284,1.54,2020
+Maida Vale,Metro,2,1,2,6748,5699,3984,1.43,2021
+Morden,Metro,4,1,4,24584,15408,11447,7.7,2013
+Morden,Metro,4,1,4,27348,18243,12707,8.62,2014
+Morden,Metro,4,1,4,29334,19665,14093,9.28,2015
+Morden,Metro,4,1,4,31696,21703,15399,10.06,2016
+Morden,Metro,4,1,4,32644,32644,17015,9.87,2017
+Morden,Metro,4,1,4,32450,22120,17000,9.69,2018
+Morden,Metro,4,1,4,32205,22980,16912,9.82,2019
+Morden,Metro,4,1,4,11235,6357,4865,5.49,2020
+Morden,Metro,4,1,4,20688,18029,12395,4.42,2021
+North Wembley,Local,4,1,2,5233,3483,2411,1.65,2013
+North Wembley,Local,4,1,2,5238,3787,2344,1.66,2014
+North Wembley,Local,4,1,2,5810,3852,2822,1.84,2015
+North Wembley,Local,4,1,2,5646,3911,2703,1.79,2016
+North Wembley,Local,4,1,2,5610,5610,2736,1.68,2017
+North Wembley,Local,4,1,2,5370,3467,2516,1.59,2018
+North Wembley,Local,4,1,2,5241,3424,2498,1.57,2019
+North Wembley,Local,4,1,2,2586,1361,772,1.23,2020
+North Wembley,Local,4,1,2,3843,2571,1795,0.78,2021
+Northwood,Local,6,1,2,7710,3853,2195,2.28,2013
+Northwood,Local,6,1,2,8177,4393,2808,2.46,2014
+Northwood,Local,6,1,2,8183,4552,2860,2.48,2015
+Northwood,Local,6,1,2,8290,4434,2727,2.49,2016
+Northwood,Local,6,1,2,10256,10256,3120,2.9,2017
+Northwood,Local,6,1,2,9257,5100,3237,2.63,2018
+Northwood,Local,6,1,2,9531,4915,3185,2.74,2019
+Northwood,Local,6,1,2,3312,1224,878,1.52,2020
+Northwood,Local,6,1,2,6440,3947,2440,1.27,2021
+Piccadilly Circus,Destination,1,2,4,116156,144632,81281,41.7,2013
+Piccadilly Circus,Destination,1,2,4,118483,149469,87860,42.93,2014
+Piccadilly Circus,Destination,1,2,4,117857,148518,89086,42.8,2015
+Piccadilly Circus,Destination,1,2,4,113482,142863,87317,41.29,2016
+Piccadilly Circus,Destination,1,2,4,116225,116225,76926,38.57,2017
+Piccadilly Circus,Destination,1,2,4,112901,126484,83015,36,2018
+Piccadilly Circus,Destination,1,2,4,117447,142589,82823,38.4,2019
+Piccadilly Circus,Destination,1,2,4,7925,6225,5291,4.18,2020
+Piccadilly Circus,Destination,1,2,4,59014,83239,50269,14.14,2021
+Rayners Lane,Local,5,2,2,13328,7800,5155,4.08,2013
+Rayners Lane,Local,5,2,2,14183,8376,5888,4.37,2014
+Rayners Lane,Local,5,2,2,14672,8577,6015,4.51,2015
+Rayners Lane,Local,5,2,2,14592,8409,5626,4.46,2016
+Rayners Lane,Local,5,2,2,13977,13977,5865,4.11,2017
+Rayners Lane,Local,5,2,2,13363,8378,5745,3.91,2018
+Rayners Lane,Local,5,2,2,14019,8561,5966,4.16,2019
+Rayners Lane,Local,5,2,2,4860,2644,1772,2.34,2020
+Rayners Lane,Local,5,2,2,8579,6645,4305,1.78,2021
+Richmond,Local,4,1,3,24380,21237,11542,7.95,2013
+Richmond,Local,4,1,3,25164,25031,13229,8.45,2014
+Richmond,Local,4,1,3,25834,25712,13361,8.66,2015
+Richmond,Local,4,1,3,23220,26957,14165,8.11,2016
+Richmond,Local,4,1,3,24071,24071,14331,7.88,2017
+Richmond,Local,4,1,3,23534,33051,14400,8,2018
+Richmond,Local,4,1,3,24450,26874,15173,8.08,2019
+Richmond,Local,4,1,3,4116,2866,3066,2.17,2020
+Richmond,Local,4,1,3,9712,8551,9447,2.2,2021
+Ruislip,Local,6,2,2,5584,3478,2030,1.71,2013
+Ruislip,Local,6,2,2,6083,3854,2652,1.9,2014
+Ruislip,Local,6,2,2,6100,4093,2491,1.9,2015
+Ruislip,Local,6,2,2,6261,4169,2511,1.95,2016
+Ruislip,Local,6,2,2,6373,6373,2506,1.89,2017
+Ruislip,Local,6,2,2,6532,4472,2650,1.93,2018
+Ruislip,Local,6,2,2,6512,4153,2560,1.93,2019
+Ruislip,Local,6,2,2,1988,1062,664,0.95,2020
+Ruislip,Local,6,2,2,3990,3187,1742,0.82,2021
+Stanmore,Local,5,1,3,11325,7055,5268,3.54,2013
+Stanmore,Local,5,1,3,12238,8614,5884,3.89,2014
+Stanmore,Local,5,1,3,12381,7997,7211,3.97,2015
+Stanmore,Local,5,1,3,12643,8836,6482,4.04,2016
+Stanmore,Local,5,1,3,12289,12289,6101,3.72,2017
+Stanmore,Local,5,1,3,12215,9896,7368,3.76,2018
+Stanmore,Local,5,1,3,12645,9731,6258,3.85,2019
+Stanmore,Local,5,1,3,4276,2042,1443,2.02,2020
+Stanmore,Local,5,1,3,8041,7194,4957,1.73,2021
+Stonebridge Park,Local,3,1,2,8245,4904,3447,2.54,2013
+Stonebridge Park,Local,3,1,2,8466,5182,3378,2.61,2014
+Stonebridge Park,Local,3,1,2,8888,5081,2746,2.67,2015
+Stonebridge Park,Local,3,1,2,8175,5146,3291,2.53,2016
+Stonebridge Park,Local,3,1,2,8217,8217,3381,2.41,2017
+Stonebridge Park,Local,3,1,2,8251,4814,3353,2.39,2018
+Stonebridge Park,Local,3,1,2,8266,4711,3322,2.43,2019
+Stonebridge Park,Local,3,1,2,4209,2170,1173,1.98,2020
+Stonebridge Park,Local,3,1,2,6175,3967,2632,1.24,2021
+Stratford,Destination,3,2,5,157212,162083,106786,54.5,2013
+Stratford,Destination,3,2,5,169213,180595,120449,59.31,2014
+Stratford,Destination,3,2,5,173115,192720,129205,61.44,2015
+Stratford,Destination,3,2,5,190404,198238,145198,67.05,2016
+Stratford,Destination,3,2,5,180027,180027,119153,58.59,2017
+Stratford,Destination,3,2,5,197426,172718,133704,61.55,2018
+Stratford,Destination,3,2,5,198848,208667,137860,64.85,2019
+Stratford,Destination,3,2,5,46861,40652,31782,25.07,2020
+Stratford,Destination,3,2,5,128136,144196,96733,29.11,2021
+Tottenham Court Road,Destination,1,2,6,117469,95145,57561,38.06,2013
+Tottenham Court Road,Destination,1,2,6,112000,95292,58832,36.76,2014
+Tottenham Court Road,Destination,1,2,6,49798,40948,25790,16.25,2015
+Tottenham Court Road,Destination,1,2,6,118147,105009,67705,39.35,2016
+Tottenham Court Road,Destination,1,2,6,126015,126015,65795,39.19,2017
+Tottenham Court Road,Destination,1,2,6,127575,106869,67870,38.65,2018
+Tottenham Court Road,Destination,1,2,6,135048,122334,72015,41.99,2019
+Tottenham Court Road,Destination,1,2,6,12791,6362,4041,6.05,2020
+Tottenham Court Road,Destination,1,2,6,70013,87970,47681,16.04,2021
+Upminster,Local,6,1,3,16635,9435,4415,4.96,2013
+Upminster,Local,6,1,3,17185,10057,4836,5.16,2014
+Upminster,Local,6,1,3,17167,9936,4758,5.14,2015
+Upminster,Local,6,1,3,17731,10608,5115,5.34,2016
+Upminster,Local,6,1,3,18387,18387,5109,5.27,2017
+Upminster,Local,6,1,3,14969,8968,5449,4.34,2018
+Upminster,Local,6,1,3,16321,9675,5249,4.76,2019
+Upminster,Local,6,1,3,5191,2222,1851,2.44,2020
+Upminster,Local,6,1,3,10855,8085,4670,2.21,2021
+Uxbridge,Local,6,2,3,24843,14275,9489,7.59,2013
+Uxbridge,Local,6,2,3,26109,16280,10550,8.07,2014
+Uxbridge,Local,6,2,3,27195,16073,10600,8.34,2015
+Uxbridge,Local,6,2,3,27480,16593,10799,8.45,2016
+Uxbridge,Local,6,2,3,27345,27345,10450,7.98,2017
+Uxbridge,Local,6,2,3,27241,16069,10606,7.91,2018
+Uxbridge,Local,6,2,3,27380,15639,10517,7.99,2019
+Uxbridge,Local,6,2,3,8551,4128,2730,4.03,2020
+Uxbridge,Local,6,2,3,17084,12213,7948,3.49,2021
+Wembley Park,Destination,4,2,5,35775,26836,21840,11.74,2013
+Wembley Park,Destination,4,2,5,41507,36499,28971,14.11,2014
+Wembley Park,Destination,4,2,5,43311,36977,28171,14.54,2015
+Wembley Park,Destination,4,2,5,45703,36824,27558,15.1,2016
+Wembley Park,Destination,4,2,5,50074,50074,27850,15.71,2017
+Wembley Park,Destination,4,2,5,49595,43459,33202,15.47,2018
+Wembley Park,Destination,4,2,5,49652,41965,28859,15.42,2019
+Wembley Park,Destination,4,2,5,16978,9810,7102,8.29,2020
+Wembley Park,Destination,4,2,5,35695,36259,24458,7.89,2021
+West Ham,Metro,3,3,4,10299,8481,6004,3.4,2013
+West Ham,Metro,3,3,4,10586,8948,6186,3.51,2014
+West Ham,Metro,3,3,4,11373,10144,6944,3.81,2015
+West Ham,Metro,3,3,4,10312,9300,6222,3.46,2016
+West Ham,Metro,3,3,4,13412,13412,7631,4.17,2017
+West Ham,Metro,3,3,4,15138,10679,8132,4.55,2018
+West Ham,Metro,3,3,4,14686,11624,8316,4.55,2019
+West Ham,Metro,3,3,4,6533,4096,3456,3.28,2020
+West Ham,Metro,3,3,4,13524,8422,6283,2.72,2021
+Wood Lane,Metro,2,2,2,10499,9095,5336,3.44,2013
+Wood Lane,Metro,2,2,2,12283,9951,6065,3.98,2014
+Wood Lane,Metro,2,2,2,11534,9519,4836,3.7,2015
+Wood Lane,Metro,2,2,2,11452,9234,5106,3.68,2016
+Wood Lane,Metro,2,2,2,12873,12873,4761,3.8,2017
+Wood Lane,Metro,2,2,2,14873,12658,7089,4.52,2018
+Wood Lane,Metro,2,2,2,15217,13635,7408,4.74,2019
+Wood Lane,Metro,2,2,2,2912,1277,898,1.36,2020
+Wood Lane,Metro,2,2,2,9922,10676,6165,2.19,2021

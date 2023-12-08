@@ -1,0 +1,271 @@
+Station ,Category
+Acton Town,Metro 
+Aldgate,Metro 
+Aldgate East,Metro 
+Alperton,Local 
+Amersham,Local 
+Angel,Metro 
+Archway,Metro 
+Arnos Grove,Metro 
+Arsenal,Metro 
+Baker Street,Destination
+Balham,Metro 
+Bank and Monument,Destination
+Barbican,Metro 
+Barking,N/A
+Barkingside,Local 
+Barons Court,Local 
+Bayswater,Metro 
+Becontree,Local 
+Belsize Park,Metro 
+Bermondsey,Metro 
+Bethnal Green,Metro 
+Blackfriars,Metro 
+Blackhorse Road,Metro 
+Bond Street,Destination
+Borough,Metro 
+Boston Manor,Local 
+Bounds Green,Metro 
+Bow Road,Metro 
+Brent Cross,Local 
+Brixton,Metro 
+Bromley-by-Bow,Local 
+Buckhurst Hill,Local 
+Burnt Oak,Local 
+Caledonian Road,Metro
+Camden Town,Destination
+Canada Water,Destination
+Canary Wharf,Destination
+Canning Town,Metro
+Cannon Street,Metro
+Canons Park,Local 
+Chalfont & Latimer,Local 
+Chalk Farm,Metro
+Chancery Lane,Metro
+Charing Cross,Destination
+Chesham,Local 
+Chigwell,Local 
+Chiswick Park,Local 
+Chorleywood,Local 
+Clapham Common,Metro
+Clapham North,Metro
+Clapham South,Metro
+Cockfosters,Metro
+Colindale,Local 
+Colliers Wood,Metro
+Covent Garden,Metro
+Croxley,Local 
+Dagenham East,Local 
+Dagenham Heathway,Local 
+Debden,Local 
+Dollis Hill,Local 
+Ealing Broadway,Local 
+Ealing Common,Local 
+Earl's Court,Destination
+East Acton,Local 
+East Finchley,Local 
+East Ham,Local 
+East Putney,Local 
+Eastcote,Local 
+Edgware,Local 
+Edgware Road (Bak),Metro
+Edgware Road (H&C),Metro
+Elephant & Castle,Destination
+Elm Park,Local 
+Embankment,Destination
+Epping,Local 
+Euston,Gateway
+Euston Square,Metro
+Fairlop,Local 
+Farringdon,Destination
+Finchley Central,Local 
+Finchley Road,Metro
+Finsbury Park,Destination
+Fulham Broadway,Metro
+Gants Hill,Metro
+Gloucester Road,Destination
+Golders Green,Local 
+Goldhawk Road,Local 
+Goodge Street,Metro
+Grange Hill,Local 
+Great Portland Street,Metro
+Green Park,Destination
+Greenford,Local 
+Gunnersbury,Local 
+Hainault,Local 
+Hammersmith (D&P),Metro
+Hammersmith (H&C),Local 
+Hampstead,Metro
+Hanger Lane,Local 
+Harlesden,Local 
+Harrow & Wealdstone,Metro
+Harrow-on-the-Hill,Metro
+Hatton Cross,Metro
+Heathrow Terminal 123,Gateway
+Heathrow Terminal 4,Metro
+Heathrow Terminal 5,N/A
+Hendon Central,Local 
+High Barnet,Local 
+High Street Kensington,Metro
+Highbury & Islington,Destination
+Highgate,Metro
+Hillingdon,Local 
+Holborn,Destination
+Holland Park,Metro
+Holloway Road,Metro
+Hornchurch,Local 
+Hounslow Central,Local 
+Hounslow East,Local 
+Hounslow West,Metro
+Hyde Park Corner,Metro
+Ickenham,Local 
+Kennington,Metro
+Kensal Green,Local 
+Kensington (Olympia),N/A
+Kentish Town,Metro
+Kenton,Local 
+Kew Gardens,Local 
+Kilburn,Local 
+Kilburn Park,Metro
+King's Cross St. Pancras,Gateway
+Kingsbury,Local 
+Knightsbridge,Metro
+Ladbroke Grove,Local 
+Lambeth North,Metro
+Lancaster Gate,Metro
+Latimer Road,Local 
+Leicester Square,Destination
+Leyton,Local 
+Leytonstone,Local 
+Liverpool Street,Gateway
+London Bridge,Destination
+Loughton,Local 
+Maida Vale,Metro
+Manor House,Metro
+Mansion House,Metro
+Marble Arch,Metro
+Marylebone,Metro
+Mile End,Metro
+Mill Hill East,Local 
+Monument [see Bank],Destination
+Moor Park,Local 
+Moorgate,Destination
+Morden,Metro
+Mornington Crescent,Metro
+Neasden,Local 
+Newbury Park,Local 
+North Acton,Local 
+North Ealing,Local 
+North Greenwich,Destination
+North Harrow,Local 
+North Wembley,Local 
+Northfields,Local 
+Northolt,Local 
+Northwick Park,Local 
+Northwood,Local 
+Northwood Hills,Local 
+Notting Hill Gate,Destination
+Oakwood,Metro
+Old Street,Metro
+Osterley,Local 
+Oval,Metro
+Oxford Circus,Destination
+Paddington,Gateway
+Paddington (H&C)                 (sub-surface),Gateway
+Park Royal,Local 
+Parsons Green,Local 
+Perivale,Local 
+Piccadilly Circus,Destination
+Pimlico,Metro
+Pinner,Local 
+Plaistow,Local 
+Preston Road,Local 
+Putney Bridge,Local 
+Queen's Park,Metro
+Queensbury,Local 
+Queensway,Metro
+Ravenscourt Park,Local 
+Rayners Lane,Local 
+Redbridge,Metro
+Regent's Park,Metro
+Richmond,N/A
+Rickmansworth,Local 
+Roding Valley,Local 
+Royal Oak,Local 
+Ruislip,Local 
+Ruislip Gardens,Local 
+Ruislip Manor,Local 
+Russell Square,Metro
+Seven Sisters,Metro
+Shepherd's Bush,Metro
+Shepherd's Bush Market,Local 
+Sloane Square,Metro
+Snaresbrook,Local 
+South Ealing,Local 
+South Harrow,Local 
+South Kensington,Destination
+South Kenton,Local 
+South Ruislip,Local 
+South Wimbledon,Metro
+South Woodford,Local 
+Southfields,Local 
+Southgate,Metro
+Southwark,Metro
+St. James's Park,Metro
+St. John's Wood,Metro
+St. Paul's,Metro
+Stamford Brook,Local 
+Stanmore,Local 
+Stepney Green,Metro
+Stockwell,Metro
+Stonebridge Park,Local 
+Stratford,Destination
+Sudbury Hill,Local 
+Sudbury Town,Local 
+Swiss Cottage,Metro
+Temple,Metro
+Theydon Bois,Local 
+Tooting Bec,Metro
+Tooting Broadway,Metro
+Tottenham Court Road,Destination
+Tottenham Hale,Metro
+Totteridge & Whetstone,Local 
+Tower Hill,Metro
+Tufnell Park,Metro
+Turnham Green,Local 
+Turnpike Lane,Metro
+Upminster,N/A
+Upminster Bridge,Local 
+Upney,Local 
+Upton Park,Local 
+Uxbridge,Local 
+Vauxhall,Metro
+Victoria,Gateway
+Walthamstow Central,Metro
+Wanstead,Metro
+Warren Street,Metro
+Warwick Avenue,Metro
+Waterloo,Destination
+Watford,Local 
+Wembley Central,Metro
+Wembley Park,Destination
+West Acton,Local 
+West Brompton,Local 
+West Finchley,Local 
+West Ham,Metro
+West Hampstead,Local 
+West Harrow,Local 
+West Kensington,Local 
+West Ruislip,Local 
+Westbourne Park,Local 
+Westminster,Destination
+White City,Local 
+Whitechapel,Metro
+Willesden Green,Local 
+Willesden Junction,N/A
+Wimbledon,N/A
+Wimbledon Park,Local 
+Wood Green,Metro
+Wood Lane,Metro
+Woodford,Local 
+Woodside Park,Local 
